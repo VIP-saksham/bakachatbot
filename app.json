@@ -5,7 +5,7 @@
   "keywords": [
     "telegram", "bot", "python", "economy", "game", "ai"
   ],
-  "repository": "https://github.com/YourUsername/RyanBakaBot",
+  "repository": "https://github.com/VIP-saksham/bakachatbot",
   "env": {
     "BOT_TOKEN": { "description": "Telegram Bot Token", "required": true },
     "MONGO_URI": { "description": "MongoDB Connection String", "required": true },

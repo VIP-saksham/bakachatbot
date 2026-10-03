@@ -1,8 +1,10 @@
-# 🤖 𝗡𝗲𝘅𝘁𝗚𝗲𝗻 𝗘𝗹𝗶𝘁𝗲 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 ɢᴀᴍᴇ & ᴄʜᴀᴛʙᴏᴛ  
-<p align="center">⚡ ʏᴇ ᴀᴅᴠᴀɴᴄᴇ ᴀɪ ɢᴀᴍᴇʙᴏᴛ ʜᴀɪ ⚡</p>
+# 🌊 **Niko ✦ 5.0 — Premium Telegram Economy, Game & Chatbot Bot**
+<p align="center">
+<b>« 𝗡𝗶𝗸𝗼 🌊 ʙʀᴀɴᴄʜ ɪs ʀᴜɴɴɪɴɢ ♡ »</b>
+</p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://files.catbox.moe/gyi5iu.jpg" width="300">
 </p>
 
 <h1 align="center">🚩🚩 ᴊᴧʏ sʜꝛєє ᴋꝛɪsʜηᴧ 🚩🚩</h1>
@@ -20,7 +22,19 @@
 
 
 
-<i>𝙰 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙱𝚢 <b>𝗡𝗲𝘅𝘁𝗚𝗲𝗻 𝗘𝗹𝗶𝘁𝗲 𝗡𝗲𝘁𝘄𝗼𝗿𝗸</b></i>
+<p align="center">
+<b>©️ 2025 Saksham Swaroop (@truenakshu)  |  GitHub: VIP-saksham </b>
+<br/>
+<b>LinkedIn: <a href="https://linkedin.com/in/sakshamswaroop">sakshamswaroop</a></b>
+<br/>
+<b>Telegram: <a href="https://t.me/truenakshu">@truenakshu</a></b>
+<br/>
+<b>GitHub: <a href="https://github.com/VIP-saksham/bakachatbot">VIP-saksham/bakachatbot</a></b>
+<br/>
+<b>Telegram Channel: <a href="https://t.me/TheHellBots">@TheHellBots</a></b>
+<br/>
+<b>🌸 ©️ Copyright Reserved — @truenakshu</b>
+</p>
 </h1>
 ​<p align="center">
 <b>Advanced AI-Powered RPG, Economy & Management Bot.</b>
@@ -28,13 +42,13 @@
 <p align="center"> ​⚙️ ─「 𝐃𝐄𝐏𝐋𝐎𝐘 」─
 ​<h3 align="center">🚀 Deploy On Heroku</h3>
 ​<p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Badnam019/Chat-bot-">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/VIP-saksham/bakachatbot">
 <img src="https://img.shields.io/badge/⚡%20Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="250">
 </a>
 </p>
 ​<h3 align="center">🌐 Deploy On Render</h3>
 ​<p align="center">
-<a href="https://render.com/deploy?repo=https://github.com/DevixOP/RyanBakaBot">
+<a href="https://render.com/deploy?repo=https://github.com/VIP-saksham/bakachatbot">
 <img src="https://img.shields.io/badge/🚀%20Deploy%20To%20Render-orange?style=for-the-badge&logo=render" width="250">
 </a>
 </p>
@@ -86,7 +100,7 @@ LOGGER_ID Channel ID for Logs (e.g. -100xxxx) ✅
 ​If you want to run the bot on your own PC or VPS:
 # Clone Repo
 ```bash
-git clone [https://github.com/DevixOP/RyanBakaBot](https://github.com/DevixOP/RyanBakaBot)
+git clone [https://github.com/VIP-saksham/bakachatbot](https://github.com/VIP-saksham/bakachatbot)
 cd RyanBakaBot
 ```
 # Install Dependencies
