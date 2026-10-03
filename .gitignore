@@ -1,2 +1,6 @@
-__pycache__/\n*.py[cod]\n.env\nvenv/\n*.log
+__pycache__/
+*.py[cod]
+.env
+venv/
+*.log
 *database.py.bak
