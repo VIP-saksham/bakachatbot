@@ -64,6 +64,8 @@ _AC_KEYS = [
     "amF2YSBjb2Rl", "aHRtbCBjb2Rl", "c2NyaXB0"
 ]
 CODE_KEYWORDS = [_d(k) for k in _AC_KEYS]
+# --- 🔑 HIDDEN SIGNATURE (Integrity Check) ---
+_SIG_DATA = "Q29weXJpZ2h0IChjKSAyMDI1IFRlbGVncmFtOi0gQFdURl9QaGFudG9t"  # Decodes to: Copyright (c) 2025 Telegram:- @WTF_Phantom
 
 NO_CODE_RESPONSES = [
     "Sorry, I don't do coding anymore! Mere dimaag ka dahi mat karo! 😤",
