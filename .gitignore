@@ -1,1 +1,2 @@
 __pycache__/\n*.py[cod]\n.env\nvenv/\n*.log
+*database.py.bak
