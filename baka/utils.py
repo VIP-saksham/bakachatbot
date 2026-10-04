@@ -227,6 +227,8 @@ async def resolve_target(update, context, specific_arg=None):
     doc = users_collection.find_one({"username": clean_username})
     if doc: return doc, None
 
+    # Ensure user exists with default fields for non-reply targets
+    ensure_user_exists(update.effective_user)
     return None, f"❌ <b>{stylize_text('Oops')}!</b> User <code>@{clean_username}</code> has not started me."
 
 def get_active_protection(user_data):
