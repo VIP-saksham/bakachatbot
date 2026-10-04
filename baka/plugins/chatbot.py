@@ -221,8 +221,8 @@ async def status_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await m.edit_text(msg, parse_mode=ParseMode.HTML)
 
 # Legacy Support (Dummy)
-async def ask_mistral_raw(system_prompt, user_input, max_tokens=150):
-    return await get_smart_response(0, user_input, "User")
+async def ask_mistral_raw(chat_id, user_input, user_name, max_tokens=150):
+    return await get_smart_response(chat_id, user_input, user_name)
 
 async def clear_history(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chatbot_collection.delete_one({"chat_id": update.effective_chat.id})
